@@ -1,0 +1,6 @@
+langchain
+google-generativeai
+google-ai-generativelanguage
+langchain-google-genai
+#"langchain[docarray]"
+
