@@ -40,19 +40,11 @@
 
 * Using `LCEL` (LangChain Expression Language) with LangGraph
 * Integrating chains and tools as LangGraph nodes
-* Example: LangGraph with OpenAI, ChatOpenAI, tools, memory, agents
+* **Example: LangGraph with OpenAI, ChatOpenAI, tools, memory, agents**
 
 ---
 
-#### 6. 💬 **Conversational Graphs**
-
-* Implementing memory-aware chat agents
-* Using `ConversationBufferMemory` and other memory classes
-* Multi-turn conversations and user input routing
-
----
-
-#### 7. 🕵️‍♂️ **Multi-Agent Workflows**
+#### 6. 🕵️‍♂️ **Multi-Agent Workflows**
 
 * Creating multiple agents with different roles
 * Agent collaboration using message-passing
@@ -61,7 +53,7 @@
 
 ---
 
-#### 8. 📦 **LangGraph with Tools and Retrieval**
+#### 7. 📦 **LangGraph with Tools and Retrieval**
 
 * LangGraph + Tools + LangChain toolkits
 * Adding Retrieval-Augmented Generation (RAG)
