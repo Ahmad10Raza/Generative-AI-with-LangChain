@@ -18,7 +18,7 @@ db_config = {
     "host": "localhost",
     "port": 3306,
     "user": "Ahmad10Raza",
-    "password": "@786&md#AS",
+    "password": "@**********",
     "database": "retail_sales_db"
 }
 
